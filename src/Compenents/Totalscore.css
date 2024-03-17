@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.contain{
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    border: 2px solid black;
+    background-position: center;
+    margin-right: 90%;
+    
+}
+.score{
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.scorep{
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 20px;
+}

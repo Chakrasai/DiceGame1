@@ -1,0 +1,21 @@
+rules{
+    display: flex;
+    justify-content:start;
+    align-self: start;
+    flex-direction: column;
+    background-color: bisque;
+    height: 200px;
+    width: 800px;
+}
+p {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.rulecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

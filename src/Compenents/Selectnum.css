@@ -1,0 +1,24 @@
+.value{
+    height: 50px;
+    width: 50px;
+    font-size: larger;
+    font-weight: 900;
+    border: 2px  solid black;
+    margin: 10px;
+    background-position: center;
+
+
+}
+.selectnum_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p{
+        color: black;
+        font-size: 20px;
+    }
+}
+.value:hover{
+    background-color: black;
+    color: white;
+}
